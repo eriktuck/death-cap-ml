@@ -1,0 +1,14 @@
+name: death-cap-ml
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - ipykernel
+  - ca-certificates
+  - certifi
+  - openssl
+  - ucimlrepo
+prefix: C:\Users\erikt\miniforge3\envs\death-cap-ml
